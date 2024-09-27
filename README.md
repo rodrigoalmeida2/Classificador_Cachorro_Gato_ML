@@ -18,14 +18,14 @@ Este projeto utiliza uma Rede Neural Convolucional (CNN) para classificar imagen
 
 ## Sobre o Projeto
 
-Este projeto é um classificador de imagens que distingue entre cães e gatos usando aprendizado profundo. O objetivo é utilizar uma rede neural convolucional (CNN) para treinar o modelo com um conjunto de dados de imagens, permitindo que ele identifique as características visuais de cães e gatos.
+Este projeto é um classificador de imagens que distingue entre cães e gatos usando Deep Learning. O objetivo é utilizar uma rede neural convolucional (CNN) para treinar o modelo com um conjunto de dados de imagens, permitindo que ele identifique as características visuais de cães e gatos.
 
 ## Tecnologias Utilizadas
 
 As principais tecnologias e bibliotecas usadas neste projeto são:
 
 - **Python**: Linguagem principal usada para a implementação.
-- **TensorFlow/Keras**: Framework de aprendizado profundo utilizado para construir e treinar a CNN.
+- **TensorFlow/Keras**: Framework de Deep Learning utilizado para construir e treinar a CNN.
 - **ImageDataGenerator**: Recurso da Keras para a geração e pré-processamento de imagens.
 
 ## Instalação
