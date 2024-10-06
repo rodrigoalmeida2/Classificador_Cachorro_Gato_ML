@@ -84,7 +84,8 @@ O modelo utilizado é uma Rede Neural Convolucional (CNN) composta pelas seguint
 Acurácia no Conjunto de Teste  
 Após o treinamento, o modelo foi avaliado utilizando um conjunto de dados separado. A acurácia final obtida foi 74.04%.
 
-## Contribuição  🙏🏼
+## Contribuição  
+🙏🏼  
 Contribuições são bem-vindas! Siga os passos abaixo:  
 
   - Faça um fork do repositório.
