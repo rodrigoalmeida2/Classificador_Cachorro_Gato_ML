@@ -84,31 +84,5 @@ O modelo utilizado é uma Rede Neural Convolucional (CNN) composta pelas seguint
 Acurácia no Conjunto de Teste  
 Após o treinamento, o modelo foi avaliado utilizando um conjunto de dados separado. A acurácia final obtida foi 74.04%.
 
-## Contribuição  
-🙏🏼  
-Contribuições são bem-vindas! Siga os passos abaixo:  
-
-  - Faça um fork do repositório.
-  - Crie uma branch com a sua feature
-    ```bash
-    git checkout -b feature/nova-feature
-  - Commit suas mudanças
-    ```bash
-    git commit -m "Adiciona nova feature"
-  - Envie para o repositório original
-    ```bash
-    git push origin feature/nova-feature
-  - Abra um Pull Request.
-
-## Contato  
-<p align="left">
-  <a href="mailto:rodrigoalmeida350.ra@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/rodrigo101/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/rodrigoalmeida2k/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
-
 ## Licença
 - Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
